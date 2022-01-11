@@ -1311,6 +1311,7 @@ footer {
   .table {
     min-width: 429px;
     margin-top: 10px;
+    max-width: unset;
   }
 
   ._mobile_thead {
@@ -1340,25 +1341,6 @@ footer {
     background: #fff;
     width: 100%;
   }
-
-  /*
-    .table__row .table__col-1 {
-      text-align: left;
-      padding-left: 10px;
-      width: 34%;
-    }
-
-    .table__col-2 {
-      width: 11%;
-    }
-    .table__col-3 {
-      width: 16%;
-    }
-    .table__col-4 {
-      width: 107px;
-      text-align: left;
-      padding-left: 23px;
-    }*/
 
   footer {
     display: none;
